@@ -1,0 +1,8 @@
+2025-10-21 18:25:53,950 - INFO - 🚀 Starting mArUnGuard by Shahid-Xt
+2025-10-21 18:25:53,950 - INFO - Initializing hash database and fetching updates...
+2025-10-21 18:25:53,950 - INFO - Downloading latest malicious hash list from Abuse.ch...
+2025-10-21 18:25:54,282 - INFO - ✅ Added 841 new hashes. Total: 841
+2025-10-21 18:26:33,055 - INFO - Loaded 993730 new hashes into the database.
+2025-10-21 18:26:33,106 - INFO - Loaded 994,571 SHA256 hashes into local database.
+2025-10-21 18:26:33,106 - INFO - 📂 Watching: C:\Users\Public
+2025-10-21 18:26:33,106 - INFO - 📂 Watching: C:\Users

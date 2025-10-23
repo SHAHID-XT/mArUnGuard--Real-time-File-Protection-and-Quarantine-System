@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "Assets\icon.ico" --name "mArUnGuard" --strip --add-data "Assets;Assets/" --add-data "logs;logs/"  "main.py"

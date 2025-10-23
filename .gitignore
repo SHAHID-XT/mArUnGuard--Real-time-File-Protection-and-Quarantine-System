@@ -1,0 +1,6 @@
+lib/__pycache__/*
+lib/__pycache__\*
+logs/malware_hashes.db
+__pycache__/*
+__pycache__\*
+test.py
