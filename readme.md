@@ -4,9 +4,6 @@
 
 **mArUnGuard** is a personal Python project built while exploring the latest malware and hash feeds from sites like MalwareBazaar. It fetches fresh SHA256 hashes daily, offering much stronger detection of new threats than most standard AV databases. Though designed as an independent tool, it can run alongside Windows Defender, giving users an extra line of defense and rapid protection from fast-evolving malware—even those gaps Defender might miss.
 
-**mArUnGuard** is a lightweight, background-running malware monitor for Windows that provides **real-time file protection**. It monitors selected folders, computes the SHA256 hash of every new or modified file, and checks it against a **large malicious hash database** stored locally in SQLite.
-
-
 
 If a file matches a known malicious hash, it is **immediately quarantined** and access is restricted using Windows ACLs, while a **toast notification** alerts the user.
 
